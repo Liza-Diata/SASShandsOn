@@ -1,0 +1,16 @@
+
+div.container div.phase1 {
+    background:$bgColor;
+    margin-left: 100px;
+    margin-top: 2px;
+    width: 80px;
+    height: 265px;
+    -moz-column-count: 2;
+         column-count: 2;
+    -moz-column-gap: 10px;
+         column-gap: 10px;
+    display: inline-block;
+        #group1{
+            background-color: rgb(104, 187, 250);
+}
+  }
